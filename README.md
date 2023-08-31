@@ -1,4 +1,4 @@
-## Projeto Scratch 1 
+## Projeto Tradutor 
 
 Equipe: Alexandre Gomes Neto
 
